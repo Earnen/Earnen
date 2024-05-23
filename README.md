@@ -2,6 +2,7 @@
 <h3 align="center">A physicist and fullstack developer from Spain</h3>
 
 ✨💻 As a graduate in physics, I've been determined to explore the exciting world of programming. I've focused on learning web development and am committed to growing in this area. However, my thirst for knowledge goes beyond that, as I love learning new languages and frameworks. This passion for technology drives me to stay updated and constantly explore new avenues of development.
+
 🏺🎮 Besides my professional career, I enjoy several hobbies that enrich my personal life. I love learning new languages and diving into the world of video games. Additionally, I have a passion for ceramics. These activities not only provide me with a perfect balance between work and leisure but also stimulate my creativity and allow me to explore different forms of expression.
 
 - 🌱 I’m currently learning **Next.js, Docker, Jenkins and Jest**
