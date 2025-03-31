@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **p.wilmun@gmail.com**
 
-- ⚡ Fun fact **I play LotRO 🧙 and I'm currently learning Scottish Gaelic**
+- ⚡ Fun fact **I play LotRO 🧙**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
